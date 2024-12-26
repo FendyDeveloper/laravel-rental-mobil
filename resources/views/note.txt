@@ -1,0 +1,12 @@
+1. Lengkapi Dashboard
+2. Bedain tampilan user dan admin
+3. Tambahkan export pdf untuk bagian payment
+4. Perbaiki Icon
+5. mengubah controller car di welcome yang ada di profilecontroller menjadi di show di CarController
+
+19-12-2024 15:20 MORBIS
+1. Form order mobil bagian downpayment diubah menjadi format mata uang saat melakukan pengisian pembayaran
+2. menambahkan fitur button bayar dibawah form input downpayment berupa 4 button (bayar 30%, bayar 50%, bayar 80%, bayar 100% )
+3. saat pembayaran akhir ditambahkan keterangan pembayaran seperti Total,Downpayment, Balance Due, fine, dan denda terlambat
+4. tambahkan fitur search pada tabel transaction
+5. input Payment Status diubah menjadi otomatis, jika pembayaran lunas maka berubah menjadi paid, dan jika belum lunas menjadi unpaid
